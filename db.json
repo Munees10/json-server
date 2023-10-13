@@ -1,0 +1,56 @@
+{
+  "videos": [
+    {
+      "id": "17",
+      "caption": "Kannur Squad",
+      "url": "https://keralakaumudi.com/web-news/en/2023/09/NMAN0438764/image/kannur-squad.1.2362481.jpg",
+      "embedLink": "https://www.youtube.com/embed/j7uWUMd_ItE"
+    },
+    {
+      "id": "21",
+      "caption": "Lucifer",
+      "url": "https://images.moneycontrol.com/static-mcnews/2019/04/lucifer1.jpg?impolicy=website&width=1600&height=900",
+      "embedLink": "https://www.youtube.com/embed/x1-Ya0NZQso"
+    },
+    {
+      "id": "23",
+      "caption": "Rorshach",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0M9m7uNdyW1w7JwEZxBFTMdmo_s8DN51G71xpCkAPYTsetrscKWxPpErK2dqGQyMI3IA&usqp=CAU",
+      "embedLink": "https://www.youtube.com/embed/1FmqSUwAirA"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Recently Watched",
+      "allVideos": [
+        {
+          "id": "21",
+          "caption": "Lucifer",
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/04/lucifer1.jpg?impolicy=website&width=1600&height=900",
+          "embedLink": "https://www.youtube.com/embed/x1-Ya0NZQso"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Movies",
+      "allVideos": [
+        {
+          "id": "17",
+          "caption": "Kannur Squad",
+          "url": "https://keralakaumudi.com/web-news/en/2023/09/NMAN0438764/image/kannur-squad.1.2362481.jpg",
+          "embedLink": "https://www.youtube.com/embed/j7uWUMd_ItE"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Kannur Squad",
+      "embedLink": "https://www.youtube.com/embed/j7uWUMd_ItE",
+      "timeStamp": "10/13/2023, 02:23:12 PM",
+      "id": 1
+    }
+  ]
+}
